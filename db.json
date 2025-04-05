@@ -1,10 +1,25 @@
 {
-    "cars": [
-        {"id": 1, "name": "BMW", "model": "M5", "year": 2025, "cost": "120000$" },
-        {"id": 2, "name": "BMW", "model": "M8", "year": 2024, "cost": "320000$" },
-        {"id": 3, "name": "Mercedes", "model": "CS63", "year": 2024, "cost": "150000$" },
-        {"id": 4, "name": "Mercedes", "model": "G63 Brabus", "year": 2025, "cost": "350000$" },
-        {"id": 5, "name": "Audi", "model": "A8 quatro", "year": 2025, "cost": "250000$" },
-        {"id": 5, "name": "Audi", "model": "A5 quatro", "year": 2022, "cost": "100000$" }
-    ]
+  "cars": [
+    {
+      "id": "0fdd",
+      "name": "audi",
+      "model": "a3",
+      "year": "2222",
+      "cost": "232323"
+    },
+    {
+      "id": "64c0",
+      "name": "BMW",
+      "model": "m8",
+      "year": "2020",
+      "cost": "150000"
+    },
+    {
+      "id": "e4ed",
+      "name": "mercedes",
+      "model": "cs",
+      "year": "2222",
+      "cost": "332322"
+    }
+  ]
 }
