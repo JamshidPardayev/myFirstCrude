@@ -107,7 +107,7 @@ const App = () => {
               <td className="border border-gray-400 p-2">{info.name}</td>
               <td className="border border-gray-400 p-2">{info.model}</td>
               <td className="border border-gray-400 p-2">{info.year}</td>
-              <td className="border border-gray-400 p-2">{info.cost}</td>
+              <td className="border border-gray-400 p-2">{info.cost}$</td>
               <td className="border border-gray-400 p-2">
                 <div className="flex gap-2">
                 <button onClick={() => handleEdit(info)} className="bg-green-600 w-[100px] h-[30px] rounded-[5px] text-white hover:bg-green-800 duration-300">Edit</button>
